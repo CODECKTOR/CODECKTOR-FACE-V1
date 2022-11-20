@@ -10,4 +10,6 @@ git clone https://github.com/CODECKTOR/CODECKTOR-FACE-V1
 
 cd CODECKTOR-FACE-V1
 
+git pull
+
 python face.py
