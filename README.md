@@ -12,4 +12,4 @@ cd CODECKTOR-FACE-V1
 
 git pull
 
-python face.py
+python fbx.py
